@@ -10,5 +10,17 @@
     "kind": "tick",
     "note": "scheduled insert",
     "ts": "2025-10-22T10:27:13.745000Z"
+  },
+  {
+    "_id": "68f8b199bcf0953df6ea3e20",
+    "name": "manual_entry",
+    "value": 123,
+    "ts": "2025-10-22T10:27:37.281000Z"
+  },
+  {
+    "_id": "68f8b1f9bcf0953df6ea3e21",
+    "kind": "tick",
+    "note": "scheduled insert",
+    "ts": "2025-10-22T10:29:13.744000Z"
   }
 ]

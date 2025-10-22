@@ -146,5 +146,11 @@
     "kind": "tick",
     "note": "scheduled insert",
     "ts": "2025-10-22T10:33:42.111000Z"
+  },
+  {
+    "_id": "68f8b36715d48631ba6eea53",
+    "kind": "tick",
+    "note": "scheduled insert",
+    "ts": "2025-10-22T10:35:19.566000Z"
   }
 ]

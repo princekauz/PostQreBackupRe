@@ -22,5 +22,11 @@
     "kind": "tick",
     "note": "scheduled insert",
     "ts": "2025-10-22T10:29:13.744000Z"
+  },
+  {
+    "_id": "68f8b216353472f5776b7c48",
+    "kind": "tick",
+    "note": "scheduled insert",
+    "ts": "2025-10-22T10:29:42.112000Z"
   }
 ]

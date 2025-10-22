@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "68f8b181bcf0953df6ea3e1e",
+    "kind": "sample",
+    "message": "Hello from Space",
+    "ts": "2025-10-22T10:27:13.723000Z"
+  },
+  {
+    "_id": "68f8b181bcf0953df6ea3e1f",
+    "kind": "tick",
+    "note": "scheduled insert",
+    "ts": "2025-10-22T10:27:13.745000Z"
+  }
+]

@@ -1,2 +1,0 @@
-2025-10-22T09:47:17.237118Z :: init -> inserted sample doc
-2025-10-22T09:47:17.253522Z :: tick -> inserted new doc
